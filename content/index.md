@@ -6,7 +6,7 @@ title: Jay Mathukiya
 
 **Customer Success Manager · AWS & Azure Certified · AI/Cloud Engineer**
 
-> Available in Germany from May 2026 · Open to English-speaking roles in Bremen, Hamburg and beyond · EU Blue Card eligible
+> Available in Germany from May 2026 · Open to English-speaking roles in Bremen, Hamburg and beyond
 
 ---
 
@@ -14,7 +14,7 @@ title: Jay Mathukiya
 
 I'm an Information Systems & Cybersecurity student at Vilnius University with hands-on experience in customer success, cloud infrastructure, and AI-powered product development. I bridge the gap between technical complexity and human clarity — whether that's resolving enterprise client issues at Nord Security or shipping a full-stack AI app.
 
-- 📧 [jeymathukiya+de@gmail.com](mailto:jeymathukiya+de@gmail.com)
+- 📧 [jeymathukiya+de@gmail.com](mailto:jeymathukiya+de@gmail.com) (Germany) · [jeymathukiya+lt@gmail.com](mailto:jeymathukiya+lt@gmail.com) (Lithuania)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jay-mathukiya-)
 - 🐙 [GitHub — jay-021](https://github.com/jay-021)
 - 📍 Kaunas, Lithuania → 🇩🇪 Germany (May 2026)

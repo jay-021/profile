@@ -60,14 +60,11 @@ aliases:
 - [Vilnius University](https://www.vu.lt/en/)
 - [VU Kaunas Faculty](https://www.vu.lt/en/studies/faculties/kaunas-faculty)
 - [ERASMUS+ Program](https://erasmus-plus.ec.europa.eu) — eligible for mobility
-- [EU Blue Card for Graduates](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
 
 ---
 
 ## 🇩🇪 Relevance to Germany
 
-> [!tip] EU Blue Card Eligibility
-> B.Sc. in Information Systems & Cybersecurity + salary offer ≥ €45,934 = **automatic EU Blue Card eligibility** in Germany. No additional visa hoops.
 
 > [!note] EURES Funding
 > As an EU-region student (Lithuania), eligible for **EURES Targeted Mobility Scheme** — can subsidize relocation costs to Germany.
