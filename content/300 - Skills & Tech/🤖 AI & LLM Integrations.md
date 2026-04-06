@@ -24,7 +24,7 @@ date: 2026-04-05
 
 | Tech | Proficiency | Reference | Used In |
 |------|------------|-----------|---------|
-| Google Gemini 2.0 Flash | ⭐⭐⭐⭐ Advanced | [ai.google.dev](https://ai.google.dev) | [[../100 - Projects/📚 MedicalBooks Platform]], [[../100 - Projects/🧬 ZenType — AI Typing App]] |
+| Google Gemini Flash | ⭐⭐⭐⭐ Advanced | [ai.google.dev](https://ai.google.dev) | [[../100 - Projects/📚 MedicalBooks Platform]], [[../100 - Projects/🧬 ZenType — AI Typing App]] |
 | Anthropic MCP | ⭐⭐⭐⭐ Advanced | [docs.anthropic.com/mcp](https://docs.anthropic.com/en/docs/agents-and-tools/mcp) | [[../100 - Projects/🤖 MCP Integration Prototype]] |
 | Google AI Studio | ⭐⭐⭐ Proficient | [aistudio.google.com](https://aistudio.google.com) | Prototyping & testing |
 | Claude API | ⭐⭐⭐ Proficient | [console.anthropic.com](https://console.anthropic.com) | MCP work |
@@ -61,5 +61,5 @@ date: 2026-04-05
 
 - [[⚡ Skills MOC]]
 - [[../100 - Projects/🤖 MCP Integration Prototype]] — MCP deep dive
-- [[../100 - Projects/📚 MedicalBooks Platform]] — Gemini 2.0 Flash
+- [[../100 - Projects/📚 MedicalBooks Platform]] — Gemini Flash
 - [[../100 - Projects/🧬 ZenType — AI Typing App]] — Gemini content generation

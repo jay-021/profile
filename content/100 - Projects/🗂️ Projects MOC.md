@@ -18,7 +18,7 @@ date: 2026-04-06
 | Project | Stack | Status |
 |---------|-------|--------|
 | [[🧬 ZenType — AI Typing App]] | Next.js 15, Firebase, Gemini AI, GDPR | ✅ Live |
-| [[📚 MedicalBooks Platform]] | React 18, TypeScript, Firebase, Gemini 2.0 | ✅ Complete |
+| [[📚 MedicalBooks Platform]] | React 18, TypeScript, Firebase, Gemini Flash | ✅ Complete |
 | [[🤖 MCP Integration Prototype]] | Anthropic MCP, Google AI Studio | 🔬 Prototype |
 | [[☁️ Cloud Infrastructure & CI-CD]] | GitHub Actions, AWS, Terraform, Docker | ✅ Deployed |
 | [[🌐 Aniload — Full-Stack Side Project]] | Node.js, React Native, JavaScript | ✅ Live |

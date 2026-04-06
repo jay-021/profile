@@ -19,7 +19,7 @@ aliases:
 # 📚 MedicalBooks Platform — Applied AI & EdTech
 
 > [!success] Status: Complete
-> A full-stack AI-powered educational platform combining React 18, Firebase, and Google Gemini 2.0 Flash for medical education.
+> A full-stack AI-powered educational platform combining React 18, Firebase, and Google Gemini Flash for medical education.
 
 ---
 
@@ -35,7 +35,7 @@ An intelligent EdTech platform that ingests medical PDF textbooks, extracts and 
 |-------|-----------|
 | Frontend | React 18, TypeScript |
 | Backend | Firebase (Firestore, Auth, Functions) |
-| AI | Google Gemini 2.0 Flash API |
+| AI | Google Gemini Flash API |
 | PDF Processing | Automated PDF parsing engine |
 | State Management | Synchronous, state-persistent quiz engine |
 
@@ -47,7 +47,7 @@ An intelligent EdTech platform that ingests medical PDF textbooks, extracts and 
 
 > [!info] Engineering Details
 > - **PDF Parsing Engine**: Automated extraction of unstructured data from medical PDFs — handles irregular formatting, tables, figures
-> - **Gemini 2.0 Flash**: Ultra-fast AI model for real-time quiz generation from extracted content
+> - **Gemini Flash**: Ultra-fast AI model for real-time quiz generation from extracted content
 > - **Timed Quiz Engine**: Synchronous state machine that persists quiz progress across sessions — no data loss on refresh
 > - **Adaptive content**: Quiz difficulty adjusts based on student performance history
 
@@ -58,7 +58,7 @@ An intelligent EdTech platform that ingests medical PDF textbooks, extracts and 
 - Complex data pipeline (PDF → structured data → AI → quiz)
 - React 18 advanced patterns (concurrent rendering, Suspense)
 - Firebase real-time database architecture
-- LLM API integration (Gemini 2.0 Flash)
+- LLM API integration (Gemini Flash)
 - EdTech product thinking
 
 ---
@@ -66,7 +66,7 @@ An intelligent EdTech platform that ingests medical PDF textbooks, extracts and 
 ## 🔗 Connected Notes
 
 - [[../300 - Skills & Tech/⚛️ React & Frontend]] — React 18 patterns used
-- [[../300 - Skills & Tech/🤖 AI & LLM Integrations]] — Gemini 2.0 Flash
+- [[../300 - Skills & Tech/🤖 AI & LLM Integrations]] — Gemini Flash
 - [[../300 - Skills & Tech/🔥 Firebase & Serverless]] — backend
 - [[../700 - GitHub/🐙 GitHub Profile]] — source code
 - [[🗂️ Projects MOC]] — back to projects

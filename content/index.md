@@ -37,8 +37,8 @@ I'm an Information Systems & Cybersecurity student at Vilnius University with ha
 
 ## Flagship Projects
 
-- **[[100 - Projects/🧬 ZenType — AI Typing App\|ZenType]]** — AI typing coach built with Next.js 15, Gemini 2.0, Firebase, GDPR-compliant serverless architecture
-- **[[100 - Projects/📚 MedicalBooks Platform\|MedicalBooks]]** — React 18 + Firebase + Gemini 2.0 Flash medical reference platform
+- **[[100 - Projects/🧬 ZenType — AI Typing App\|ZenType]]** — AI typing coach built with Next.js 15, Gemini Flash, Firebase, GDPR-compliant serverless architecture
+- **[[100 - Projects/📚 MedicalBooks Platform\|MedicalBooks]]** — React 18 + Firebase + Gemini Flash medical reference platform
 - **[[100 - Projects/🤖 MCP Integration Prototype\|MCP Prototype]]** — Anthropic Model Context Protocol integration with Google AI Studio
 - **[[100 - Projects/☁️ Cloud Infrastructure & CI-CD\|Cloud CI/CD]]** — GitHub Actions + AWS + Terraform + Docker pipelines
 - **[[100 - Projects/🌐 Aniload — Full-Stack Side Project\|Aniload]]** — Node.js backend + React Native mobile sharing one database

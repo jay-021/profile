@@ -56,7 +56,7 @@ Delivering technical support and client relationship management for Nord Securit
 ## 🚀 Flagship Projects
 
 - [[100 - Projects/🧬 ZenType — AI Typing App]] — Next.js 15, Firebase, Gemini AI, GDPR-compliant
-- [[100 - Projects/📚 MedicalBooks Platform]] — React 18, TypeScript, Firebase, Gemini 2.0 Flash
+- [[100 - Projects/📚 MedicalBooks Platform]] — React 18, TypeScript, Firebase, Gemini Flash
 - [[100 - Projects/🤖 MCP Integration Prototype]] — Anthropic MCP, Google AI Studio
 - [[100 - Projects/☁️ Cloud Infrastructure & CI-CD]] — GitHub Actions, AWS, Terraform, Docker
 - [[100 - Projects/🌐 Aniload — Full-Stack Side Project]] — Node.js backend + React Native mobile
