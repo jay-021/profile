@@ -25,8 +25,7 @@ cssclasses:
 > - **Email:** jeymathukiya+de@gmail.com (DE) · jeymathukiya+lt@gmail.com (LT) · **Phone:** +370 68122480
 > - **LinkedIn:** [linkedin.com/in/jay-mathukiya-](https://www.linkedin.com/in/jay-mathukiya-)
 > - **GitHub:** [github.com/jay-021](https://github.com/jay-021)
-> - **Location:** Kaunas, Lithuania → 🇩🇪 Bremen / Hamburg (May 2026+)
-> - **Target Salary:** €45,000–€55,000+
+> - **Location:** Kaunas, Lithuania · 🇩🇪 Germany visit May 5–24, 2026
 
 ---
 
